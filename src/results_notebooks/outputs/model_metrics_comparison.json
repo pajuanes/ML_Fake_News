@@ -1,0 +1,16 @@
+[
+  {
+    "Model":"Logistic Regression",
+    "Accuracy":0.9097024759,
+    "Precision":0.8940038685,
+    "Recall":0.9352488871,
+    "F1-score":0.9141613924
+  },
+  {
+    "Model":"SVM",
+    "Accuracy":0.9129620639,
+    "Precision":0.8999740192,
+    "Recall":0.9345743963,
+    "F1-score":0.9169479187
+  }
+]

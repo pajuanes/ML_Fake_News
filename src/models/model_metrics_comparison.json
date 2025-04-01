@@ -1,0 +1,72 @@
+[
+  {
+    "Model":"Random Forest",
+    "Accuracy":0.901865594,
+    "Precision":0.8708879545,
+    "Recall":0.9499527856,
+    "F1-score":0.9087037873
+  },
+  {
+    "Model":"XGBoost",
+    "Accuracy":0.9077605937,
+    "Precision":0.8710503843,
+    "Recall":0.9631728045,
+    "F1-score":0.9147982063
+  },
+  {
+    "Model":"LightGBM",
+    "Accuracy":0.9045010056,
+    "Precision":0.8740704016,
+    "Recall":0.9513017672,
+    "F1-score":0.9110522576
+  },
+  {
+    "Model":"MLP Keras",
+    "Accuracy":0.9152507109,
+    "Precision":0.9059672131,
+    "Recall":0.9318764333,
+    "F1-score":0.918739194
+  },
+  {
+    "Model":"Logistic Regression",
+    "Accuracy":0.9097024759,
+    "Precision":0.8940038685,
+    "Recall":0.9352488871,
+    "F1-score":0.9141613924
+  },
+  {
+    "Model":"SVM",
+    "Accuracy":0.9129620639,
+    "Precision":0.8999740192,
+    "Recall":0.9345743963,
+    "F1-score":0.9169479187
+  },
+  {
+    "Model":"Random Forest",
+    "Accuracy":0.901865594,
+    "Precision":0.8708879545,
+    "Recall":0.9499527856,
+    "F1-score":0.9087037873
+  },
+  {
+    "Model":"XGBoost",
+    "Accuracy":0.9077605937,
+    "Precision":0.8710503843,
+    "Recall":0.9631728045,
+    "F1-score":0.9147982063
+  },
+  {
+    "Model":"LightGBM",
+    "Accuracy":0.9045010056,
+    "Precision":0.8740704016,
+    "Recall":0.9513017672,
+    "F1-score":0.9110522576
+  },
+  {
+    "Model":"MLP Keras",
+    "Accuracy":0.9152507109,
+    "Precision":0.9059672131,
+    "Recall":0.9318764333,
+    "F1-score":0.918739194
+  }
+]
