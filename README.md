@@ -19,6 +19,7 @@ Desarrollar un sistema capaz de **clasificar noticias como reales o falsas**, an
 - `src/models`: Modelos generados y automatizados durante la ejecución del código.
 - `src/utils`: Código fuente organizado por tareas (módulos, funciones auxiliares, clases...).
 
+```bash
 ML_Fake_News/
 │
 ├── data/                   # Dataset original
@@ -34,6 +35,7 @@ ML_Fake_News/
 ├── requirements.txt        # Lista de dependencias
 ├── README.md               # Descripción general del proyecto
 └── .gitignore              # Ficheros a ignorar por Git
+```
 
 ### Modelos y Técnicas
 
@@ -94,6 +96,7 @@ To build an intelligent system that detects fake news using:
 - `src/models`: Models generated and saved during code execution.
 - `src/utils`: Source code organized by task (modules, helper functions, classes...).
 
+```bash
 ML_Fake_News/
 │
 ├── data/                   # Full dataset
@@ -108,6 +111,7 @@ ML_Fake_News/
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 └── .gitignore              # Git exclusions
+```
 
 ### Models & Techniques
 
