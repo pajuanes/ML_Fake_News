@@ -23,12 +23,6 @@ __pycache__/
 src/img/
 src/result_notebook/
 
-# Data and models
-src/data_sample/
-*.csv
-*.json
-*.pkl
-
 # Automatically generated dependencies
 requirements.txt
 
